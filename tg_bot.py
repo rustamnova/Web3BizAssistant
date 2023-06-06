@@ -3,7 +3,7 @@ import telebot
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton, InlineKeyboardMarkup, InlineKeyboardButton
 
 # Replace YOUR_TOKEN with your Telegram bot token
-bot = telebot.TeleBot('6238604932:AAHN-8WET49fAFgtEQsBDhYEJR6V7gNAw7E')
+bot = telebot.TeleBot('5823020818:AAEcYppS_CVVKY2t_wZmR-fN8Ehlwmka9nY')
 
 # Start command
 @bot.message_handler(commands=['start'])
